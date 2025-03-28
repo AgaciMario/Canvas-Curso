@@ -11,19 +11,19 @@ Desenhado ciruculos, arcos, retangulos e linha
 
 ### Canvas 03 Animating
 Básico da geração de quadros de animação e colisão com as bordas do canvas
-![Print 03](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas03.png)
+![Print 03](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas03.gif)
 
 ### Canvas 04 interactivity
 Criando um backgroud animado que interage com o mouse
-![Print 04](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas04.png)
+![Print 04](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas04.gif)
 
 ### Canvas 05 Gravity
 Adicionando fator de gravidade e perda de velocidade baseada em atrito
-![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas05.png)
+![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas05.gif)
 
 ### Projeto extra
 Utiliazando os conhecimentos adquiridos realizei a criação de uma animação que da a ilusão de uma chuva continua
-![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Extra.png)
+![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Extra.gif)
 *Nota: Meio bugado no inicio da animação mas logo a ilusão de chuva surge.*
 
 
