@@ -21,6 +21,10 @@ Criando um backgroud animado que interage com o mouse
 Adicionando fator de gravidade e perda de velocidade baseada em atrito
 ![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas05.gif)
 
+### Canvas 06 Gravity
+Adicionando fator de gravidade e perda de velocidade baseada em atrito
+![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas06.gif)
+
 ### Projeto extra
 Utiliazando os conhecimentos adquiridos realizei a criação de uma animação que da a ilusão de uma chuva continua
 ![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Extra.gif)
