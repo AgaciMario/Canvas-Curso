@@ -23,10 +23,10 @@ Adicionando fator de gravidade e perda de velocidade baseada em atrito
 
 ### Canvas 06 Gravity
 Adicionando fator de gravidade e perda de velocidade baseada em atrito
-![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas06.gif)
+![Print 06](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Canvas06.gif)
 
 ### Projeto extra
-Utiliazando os conhecimentos adquiridos realizei a criação de uma animação que da a ilusão de uma chuva continua
+Utilizando os conhecimentos adquiridos realizei a criação de uma animação que da a ilusão de uma chuva continua
 ![Print 05](https://github.com/AgaciMario/Canvas-Curso/blob/main/Img/Extra.gif)
 *Nota: Meio bugado no inicio da animação mas logo a ilusão de chuva surge.*
 
